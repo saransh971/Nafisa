@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #000;
+  background: #656e67;
   color: #fff;
   font-family: 'Stack Sans', sans-serif;
   display: flex;
@@ -128,3 +128,4 @@ body {
     padding: 20px;
   }
 }
+
